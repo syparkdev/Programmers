@@ -1,5 +1,7 @@
 package level_0;
 
+//³ª´°¼À ¸Þ¼Òµå
+
 public class Divide {
 	
 	public int solution(int num1, int num2) {

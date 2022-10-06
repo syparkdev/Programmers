@@ -1,5 +1,7 @@
 package level_0;
 
+//두 수를 비교하는 메소드
+
 public class CompareNum {
 	
 	 public int solution(int num1, int num2) {
