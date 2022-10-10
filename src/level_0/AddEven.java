@@ -4,7 +4,7 @@ package level_0;
 
 public class AddEven {
 	
-	public int solution(int n) {
+	public int AddEven(int n) {
         int answer = 0;
 
 		for(int i = 2;i <= n;i+=2) {
