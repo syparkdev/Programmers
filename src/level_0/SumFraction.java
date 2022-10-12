@@ -1,5 +1,7 @@
 package level_0;
 
+//분자의 합을 기약분수로 반환하는 메소드
+
 public class SumFraction {
 	
 	
@@ -12,7 +14,7 @@ public class SumFraction {
         answer[1] = (denum1 * num2) + (denum2 * num1);
         
         //최대공약수를 구한다
-        int gcd = GCD.getGCD(answer[0], answer[1]);
+        int gcd = Gcd.getGcd(answer[0], answer[1]);
         
         //약분한다
         for (int i = 0;i < answer.length;i++) {
