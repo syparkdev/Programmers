@@ -4,7 +4,7 @@ package level_0;
 
 public class Divide {
 	
-	public int Divide(int num1, int num2) {
+	public int divide(int num1, int num2) {
 		
 			return num1 / num2;
     }

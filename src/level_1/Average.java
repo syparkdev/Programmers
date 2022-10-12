@@ -2,7 +2,7 @@ package level_1;
 
 public class Average {
 	
-	public double Average(int[] arr) {
+	public double average(int[] arr) {
 		
         double sum = 0;
         

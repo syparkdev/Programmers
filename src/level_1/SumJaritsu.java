@@ -4,7 +4,7 @@ package level_1;
 
 public class SumJaritsu {
 	
-	public static int SumJaritsu (int n) {
+	public static int sumJaritsu (int n) {
 		
 		int sum = 0;
 		

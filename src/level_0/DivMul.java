@@ -4,7 +4,7 @@ package level_0;
 
 public class DivMul {
 	
-	public int DivMul(int num1, int num2)	{
+	public int divMul(int num1, int num2)	{
 		
 		return (int)((float)num1 / (float)num2 * 1000);
 	}

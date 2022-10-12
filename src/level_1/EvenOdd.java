@@ -4,7 +4,7 @@ package level_1;
 
 public class EvenOdd {
 	
-	 public String EvenOdd(int num) {
+	 public String evenOdd(int num) {
 		 
 	        return num % 2 == 0 ? "Even" : "Odd";
 	    }

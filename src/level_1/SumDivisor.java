@@ -4,7 +4,7 @@ package level_1;
 
 public class SumDivisor {
 
-	public static int SumDivisor(int n) {
+	public static int sumDivisor(int n) {
 
 		int sum = 0;
 

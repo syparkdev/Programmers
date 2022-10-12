@@ -6,7 +6,7 @@ public class BirthYear {
 	
 	private static final int thisYear = 2022;
     
-    public int BirthYear(int age) {
+    public int birthYear(int age) {
     	
         return thisYear - age + 1;
     }

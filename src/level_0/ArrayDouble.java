@@ -2,7 +2,7 @@ package level_0;
 
 public class ArrayDouble {
 	
-	 public int[] ArrayDouble(int[] numbers) {
+	 public int[] arrayDouble(int[] numbers) {
 		 
 	        int[] answer = new int[numbers.length];
         	int index = 0;

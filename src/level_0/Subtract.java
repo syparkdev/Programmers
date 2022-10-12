@@ -4,7 +4,7 @@ package level_0;
 
 public class Subtract {
 	
-	 public static int Subtract(int num1, int num2) {
+	 public static int subtract(int num1, int num2) {
 		 
 			 return num1 - num2;
 	 }
