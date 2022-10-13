@@ -8,7 +8,7 @@ public class Median {
 	
 	public int median (int array[]) {
 		
-		int midIndex = array.length / 2 + 1;
+		int midIndex = array.length / 2;
 		
 		Arrays.sort(array);
 		
