@@ -2,7 +2,7 @@ package level_0;
 
 public class Discount {
 	
-	public static int discount(int price) {
+	public int discount(int price) {
 		
 		double answer = 0;
 		
