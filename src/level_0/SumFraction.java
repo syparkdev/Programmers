@@ -5,7 +5,7 @@ package level_0;
 public class SumFraction {
 	
 	
-	public int[] SumFraction(int denum1, int num1, int denum2, int num2) {
+	public int[] sumFraction(int denum1, int num1, int denum2, int num2) {
 		
         int[] answer = {};
         
