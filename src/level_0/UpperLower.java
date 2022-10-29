@@ -20,14 +20,4 @@ public class UpperLower {
 		return answer;
 	}
 
-	public static void main(String[] args) {
-		
-		int i = 'a';
-		int j = 'A';
-		
-		i += 1;
-		
-//		System.out.println((char)i + "\n" + (char)j);
-		System.out.println(upperLower("Olive"));
-	}
 }
